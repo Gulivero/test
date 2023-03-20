@@ -1,0 +1,15 @@
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\bin\Debug\SelfHost.dll
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\bin\Debug\SelfHost.pdb
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\bin\Debug\System.Web.Http.dll
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\bin\Debug\System.Web.Http.xml
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\obj\Debug\SelfHost.csprojAssemblyReference.cache
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\obj\Debug\SelfHost.csproj.CoreCompileInputs.cache
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\obj\Debug\SelfHost.csproj.CopyComplete
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\obj\Debug\SelfHost.dll
+C:\Users\GurkoPM\source\repos\ConsoleApp7\SelfHost\obj\Debug\SelfHost.pdb
